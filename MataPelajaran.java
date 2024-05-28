@@ -51,10 +51,6 @@ public class MataPelajaran {
         return jamPelajaran;
     }
 
-    public void setJamPelajaran(int jamPelajaran) {
-        this.jamPelajaran = jamPelajaran;
-    }
-
     public static void main(String[] args) {
         MataPelajaran matapelajaran1 = new MataPelajaran(1, "Matematika", "XII-A", "IPA", 3);
         
