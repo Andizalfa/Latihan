@@ -63,6 +63,6 @@ public class MataPelajaran {
         System.out.println("Nama Mata Pelajaran: " + matapelajaran1.getNamaMapel());
         System.out.println("Kelas: " + matapelajaran1.getKelas());
         System.out.println("Jurusan: " + matapelajaran1.getJurusan());
-        System.out.println("Jam Pelajaran: " + matapelajaran1.getJamPelajaran());
     }
 }
+
